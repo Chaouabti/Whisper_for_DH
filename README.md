@@ -1,4 +1,3 @@
-```markdown
 # Whisper Transcription Project
 
 This project provides a tool for transcribing audio files using OpenAI's Whisper model. It includes functionalities for managing Whisper models (downloading if needed) and transcribing audio files, with support for saving results in JSON and plain text formats.
